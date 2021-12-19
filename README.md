@@ -1,4 +1,4 @@
-<p align="center"><a  target="_Blank"><img width="100%" src="https://github.com/OnlyOnlyOne/Image/blob/main/img/title.png" /></a></p>
+<p align="center"><a  target="_Blank"><img width="120%" height = "30%" src="https://github.com/OnlyOnlyOne/Image/blob/main/img/title.png" /></a></p>
 
 ### Hi there <img src="https://codingnbb.com/images/wavehand.gif" width="25px"> 
 
