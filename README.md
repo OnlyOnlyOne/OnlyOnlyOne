@@ -13,4 +13,4 @@
 - ⚡ Fun fact:I hope one day I can become a ⚡ superman ⚡，enjoy 😄 ！
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyOnlyOne)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OnlyOnlyOne&theme=default)](https://git.io/streak-stats)
